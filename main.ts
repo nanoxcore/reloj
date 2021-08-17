@@ -1,3 +1,6 @@
+function doSomething () {
+	
+}
 let segundos = 55
 let minutos = 59
 let horas = 23
